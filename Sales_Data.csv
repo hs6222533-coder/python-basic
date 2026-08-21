@@ -1,0 +1,51 @@
+Order_ID,Product,Category,City,Sales,Quantity,Rating,Payment_Mode
+1001,Laptop,Electronics,Jaipur,55000,5,4.5,UPI
+1002,Mouse,Accessories,Delhi,2500,10,4.0,Cash
+1003,Keyboard,Accessories,Mumbai,4500,8,3.8,Card
+1004,Notebook,Books,Pune,1800,15,4.2,UPI
+1005,Monitor,Electronics,Jaipur,32000,4,4.7,Card
+1006,Book Stand,Books,Delhi,6500,6,4.1,Cash
+1007,Headphones,Electronics,Mumbai,8500,7,4.3,UPI
+1008,Printer,Electronics,Kolkata,22000,3,3.9,Card
+1009,Tablet,Electronics,Pune,28000,5,4.6,UPI
+1010,Pen Drive,Accessories,Jaipur,4000,9,3.7,Cash
+1011,Laptop Bag,Accessories,Delhi,7500,6,4.2,Card
+1012,Book,Books,Mumbai,3500,12,4.0,UPI
+1013,Webcam,Electronics,Pune,9500,7,4.4,Cash
+1014,Chair,Furniture,Jaipur,15000,3,4.5,Card
+1015,Desk,Furniture,Delhi,12000,4,3.8,UPI
+1016,Notebook,Books,Kolkata,2500,5,4.1,Cash
+1017,Mouse Pad,Accessories,Mumbai,1800,10,3.9,Card
+1018,Keyboard,Accessories,Jaipur,5000,8,4.0,UPI
+1019,Laptop,Electronics,Delhi,48000,6,4.8,Card
+1020,Monitor,Electronics,Pune,27000,4,4.5,Cash
+1021,Book Shelf,Books,Mumbai,7000,7,4.2,UPI
+1022,Headphones,Electronics,Kolkata,9000,6,4.1,Card
+1023,Printer,Electronics,Jaipur,21000,3,3.8,Cash
+1024,Tablet,Electronics,Delhi,26000,5,4.6,UPI
+1025,Pen,Accessories,Pune,1200,15,3.5,Card
+1026,Laptop Bag,Accessories,Mumbai,6500,8,4.0,Cash
+1027,Book,Books,Jaipur,3200,10,4.3,UPI
+1028,Webcam,Electronics,Delhi,11000,6,4.5,Card
+1029,Chair,Furniture,Kolkata,14500,4,3.9,Cash
+1030,Desk,Furniture,Pune,13000,5,4.1,UPI
+1031,Keyboard,Accessories,Jaipur,5200,8,4.0,Card
+1032,Mouse,Accessories,Delhi,2800,12,3.8,Cash
+1033,Laptop,Electronics,Mumbai,60000,5,4.9,UPI
+1034,Notebook,Books,Pune,2200,14,4.2,Card
+1035,Monitor,Electronics,Kolkata,30000,4,4.7,Cash
+1036,Book Stand,Books,Jaipur,5500,9,4.1,UPI
+1037,Printer,Electronics,Delhi,19500,3,3.9,Card
+1038,Headphones,Electronics,Mumbai,10500,5,4.4,Cash
+1039,Tablet,Electronics,Pune,24000,7,4.6,UPI
+1040,Pen Drive,Accessories,Kolkata,3500,10,3.7,Card
+1041,Laptop,Electronics,Delhi,45000,4,4.8,Cash
+1042,Book,Books,Mumbai,4000,8,4.0,UPI
+1043,Webcam,Electronics,Jaipur,12500,5,4.3,Card
+1044,Chair,Furniture,Pune,16000,3,4.5,Cash
+1045,Desk,Furniture,Kolkata,14000,6,4.1,UPI
+1046,Mouse Pad,Accessories,Jaipur,3000,11,3.9,Card
+1047,Keyboard,Accessories,Delhi,4800,7,4.2,Cash
+1048,Monitor,Electronics,Mumbai,29000,4,4.7,UPI
+1049,Notebook,Books,Pune,2000,12,4.0,Card
+1050,Laptop,Electronics,Jaipur,68000,6,4.9,Cash
