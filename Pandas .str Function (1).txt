@@ -1,0 +1,39 @@
+Important Pandas .str Function Practice Questions
+
+Convert all values in the Customer_Name column to uppercase. Convert all values in the Customer_Name column to title case. Remove leading and trailing spaces from the Customer_Name column.
+
+Find the length of each customer name.
+
+Find all products that contain the word "phone", ignoring case.
+
+Find all customers whose names start with "A".
+
+Find all products whose names end with "e".
+
+Replace "Smartphone" with "Smart Phone" in the Product column.
+
+Extract the first character from each customer name.
+
+Extract the first name from the Customer_Name column.
+
+Extract the last name from the Customer_Name column.
+
+Extract the email provider/domain from the Email column.
+Example: abc@gmail.com → gmail.com
+
+Extract the username from the Email column.
+Example: abc@gmail.com → abc
+
+Find all customers whose email address ends with gmail.com.
+
+Clean the Customer_Name column by removing extra spaces and converting names to title case.
+
+Clean the City column by removing extra spaces and standardizing the city names using string functions.
+
+Find all customers whose names contain "sharma", ignoring case.
+
+Find all products whose names contain either "phone" or "smart", ignoring case.
+
+Count the number of words in each Customer_Name.
+
+Create two new columns, First_Name and Last_Name, by splitting the Customer_Name column.
